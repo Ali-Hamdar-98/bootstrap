@@ -25,5 +25,7 @@ body{
     }
     .right-box{
         padding: 20px;
+    }}
+.btn-custom:hover{
+    background-color:#23c68a;
     }
-}
